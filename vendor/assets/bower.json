@@ -3,6 +3,11 @@
   "dependencies": {
     "angular": "latest",
     "bootstrap-sass-official": "latest",
-    "angular-route": "latest"
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-mocks": "latest"
+  },
+  "resolutions": {
+    "angular": "1.2.25"
   }
 }
